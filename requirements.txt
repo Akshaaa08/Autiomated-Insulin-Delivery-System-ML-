@@ -1,0 +1,44 @@
+# Core Python Libraries
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.1
+joblib==1.4.2
+tqdm==4.66.5
+
+# Deep Learning Frameworks
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# PyTorch Lightning for training loop management
+pytorch-lightning==2.5.0
+
+# Time Series Forecasting
+pytorch-forecasting==1.0.0
+
+# Optional GPU Acceleration (only if CUDA is available)
+# torch==2.2.2+cu118
+# torchvision==0.17.2+cu118
+# torchaudio==2.2.2+cu118
+# -f https://download.pytorch.org/whl/torch_stable.html
+
+# XML Parsing (for OhioT1DM dataset)
+lxml==5.2.2
+xmltodict==0.13.0
+
+# Data Visualization & Reporting
+plotly==5.24.1
+matplotlib-inline==0.1.7
+
+# Clarke Error Grid plotting and metrics
+scipy==1.13.1
+statsmodels==0.14.2
+
+# Optional (used for interpretability or debugging)
+tensorboard==2.17.0
+
+# For notebooks
+jupyter==1.1.1
+ipykernel==6.29.5
