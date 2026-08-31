@@ -213,6 +213,6 @@ Incorporate federated learning for patient privacy (HIPAA-compliant)
 
 👩‍💻 Contributors
 
-Project Lead: Akssss
-Guided by: [Your Faculty/Guide Name]
+Project Lead: Akshaa
+Guided by: [Dr. Jyoti Madake (Professor, VIT Pune)]
 Technologies: PyTorch Lightning, Pandas, Matplotlib, Scikit-learn
